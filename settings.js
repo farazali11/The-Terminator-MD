@@ -1,15 +1,18 @@
-/*██▓▒­░⡷⠂𝚻𝚮𝚵 𝚻𝚵𝚪𝚳𝚰𝚴𝚫𝚻𝚯𝚪 𝚳𝐃⠐⢾░▒▓██
+/*
+ █▀▀█ █░▒█ █▀▀▀ █▀▀▀ █▄░▒█       █▀▀▀ █░░░ ▀█▀ █▀▀▀█ █▀▀█
+ █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
+ ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
 
-WHATSAPP BOT BY MR FARAZ AND MUHAMMAD SAQLAIN ( SIGMA MAKER OFC )
+WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
 
-WHATSAPP - 923206629195,923082990885
-SUPPORT GROUP - https://chat.whatsapp.com/LArHCfXJfwz3OSQIzQEy2A
-YOUTUBE - 
+WHATSAPP - 94719574492
+SUPPORT GROUP - https://t.me/queenelisasupport
+YOUTUBE - http://youtube.com/MRNIMAOFC
 
 
 ℹ️ SPECIAL INFORMATION ℹ️
 
-Welcome to The Terminator Md Whatsapp Bot settings.js.
+Welcome to Queen Elisa Whatsapp Bot settings.js.
 Information provided to you.
 If you use true or false
 true = if you want to do that task
@@ -25,23 +28,23 @@ const chalk = require('chalk')
 /*
 ⚙️ BOT SETTINGS  ⚙️
 */
-//👇 if you need seen massage use " true " ,if you wanna active this type true, if no type false
+//👇 if you need seen massage use " true " , මැසේජ් සීන් කරන්න ඔනි නම් true දාන්න ඔනි නැත්තම් false දාන්න
 global.READ_MASSAGE = false
-//👇 enable DISABLE Girls Voice Reply , Auto Voice Reply  
+//👇 enable DISABLE Girls Voice Reply , Auto Voice Reply යවන්න ඔනි නම් true දාන්න 
 global.VOICE_REPLY = false
-//👇 Do you want show time on your bio use "true" want DISABLE use "false" 
+//👇 Do you want show time on your bio use "true" want DISABLE use "false" , ස්වයං ක්‍රීය Bio එක ඔනි නම් true දාන්න
 global.AUTO_BIO = false
-//👇 Inbox massage block PM block 
+//👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
 global.INBOX_BLOCK = false
-//👇 Auto react  , 
+//👇 Auto react  , ස්වයංක්‍රීය රියක්ට්
 global.AUTO_REACT = false
-//👇 Bad word Auto delete ( you must add bad words ) 
+//👇 Bad word Auto delete ( you must add bad words ) නරක වචන ඩිලීට් කිරීම , ඔබ විසින් වචන දැමිය යුතුය 
 global.ANTI_BADWORD = false
-//👇 Kick And Auto Delete Group link Senders 
+//👇 Kick And Auto Delete Group link Senders , ස්මූහ ස්බැදි දමන අයව ඉවත් කරයි
 global.ANTI_G_LINK = false
 //👇 212 Number block
 global.NUMBER_212_BLOCK = false
-//👇 Send Welcome ( true or false ) 
+//👇 Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
 global.SEND_WELCOME = false
 global.SEND_GOODBYE = false
 //👇 Send block command message (true or false )
@@ -54,9 +57,9 @@ global.BOT_OFFLINE = false
 global.ONLY_PREFIX = false
 //👇 This uplaod youtube videos without limit ⚠️ if you use this you must have paid sever
 global.UPLOAD_MAX = false
-//👇 Desabale Bot inbox 
+//👇 Desabale Bot inbox ඉන්බොක්ස් බ්ලොක් නොවී වැඩ නොකරන්නනම් 
 global.DISABLE_INBOX = false 
-//👇 DISABLE inbox message send true or false 
+//👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
 global.DISABLE_INBOX_MESSAGE_SEND = false
 //👇 Pron Video Download 
 global.SEX_VIDEO_DOWNLOAD = false
@@ -78,15 +81,15 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['923206629195,923082990885'] 
+global.owner = ['94715166712'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© ꧁༺𝚻𝚮𝚵 𝚻𝚵𝚪𝚳𝚰𝚴𝚫𝚻𝚯𝚪 𝚳𝐃 ༻꧂ ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
 //👇 Your Bot Name
-global.botnma =  'ꓚ⌊⌋ 𝚻𝚮𝚵 𝚻𝚵𝚪𝚳𝚰𝚴𝚫𝚻𝚯𝚪 𝚳𝐃 ⌊⌋ꓛ' 
+global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
 //👇 Your name
-global.ownernma =  'FARAZ AND HIS BRO SAQLAIN' 
+global.ownernma =  'ᴍ ʀ ⃞ ɴ ɪ ᴍ ᴀ' 
 //👇 Sticker Author Name
-global.packname =  '꧁༺𝚻𝚮𝚵 𝚻𝚵𝚪𝚳𝚰𝚴𝚫𝚻𝚯𝚪 𝚳𝐃 ༻꧂' 
+global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
@@ -96,17 +99,17 @@ global.SONG_DOWN = '```⬇️ Downloading Your Song...```'
 //👇 Song Uplode massage 
 global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 Menu imoji 
-global.MENU_IMOJI = '❤‍🩹|💀'
+global.MENU_IMOJI = '👸|ℹ️'
 //👇 Your time zone ( use correct time zone )
-global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Karachi'
+global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
 global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/e88dc66deb898c3f3dc94.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `𝗧𝗛𝗘 𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗧𝗢𝗥 𝗠𝗗 𝗜𝗦 𝗔𝗟𝗜𝗩𝗘 𝗕𝗥𝗨𝗛 {uptime}`
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
@@ -119,12 +122,12 @@ global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
-//👇 Open ai API Put Withouth "sk-" ( "sk-" )
+//👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
 global.CHATGPT_API = ''
 //👇 Sex  video Download Allowed Groups
-global.SEX_DOWNLOAD_GROUPS = ['120363168112502215@g.us']
+global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
 //👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/LArHCfXJfwz3OSQIzQEy2A'
+global.GROUP_LINK = 'https://chat.whatsapp.com/Ih1udrdBNvX5xSu5mUVdql'
 /*
 
    🍃 OTHER 🍃
@@ -138,21 +141,21 @@ global.zenzapi = '01ABEB1E11'
 
 */
 global.mess = {
-    success: 'Done 🐦‍⬛',
-    admin: '*BRO YOU REALLY HAVE EYES THAT YOU ARE NOT ADMIN SO CANT USE THIS COMMAND SORRY !*',
-    botAdmin: '*BOT MUST BE ADMIN FIRST BRUH !*',
-    owner: '*ONLY FOR OWNER BRUH !*',
-    group: '*ONLY IN GROUPS BRUH !*',
-    private: '*ONLY IN INBOX BUT DONT GO TO GIRLS INBOX TO USE IT !*',
-    bot: '*THIS COMMAND IS ONLY FOR BOT NUMBER !*',
-    wait: '*♲ CAN YOU PLEASE JUST WAIT A LITTLE BIT ...*',
-    endLimit: 'YOUR DAILY LIMIT EXPIRED SO PLEASE WAIT FOR 12 HOURS',
-    BLOCK_CMD_MSG : '*⚠️  THIS COMMAND IS BLOCKED BY OWNER BRUH*',
-    IMG_BLOCK : "THIS WORD IS BANNED FROM IMAGE DOWNLOADER",
-    DISABLE_INBOX : "INBOX DISABLED BY OWNER PLEASE USE IN ONLY GROUS ",
-    ONLY_SEX_GROUP : "ADULT VIDEOS HE HE BOY BUT ITS ALLOWED IN ONLY THIS GROUP \n\n https://chat.whatsapp.com/LArHCfXJfwz3OSQIzQEy2A",
-    DISABLE_CMD : "🚫 COMMANDS ARE DISABLED BY OWNER",
-    BAD_DETECT : 'HEY YOU PLEASE DONT USE BAD WORDS HERE OTHERWISE I WILL FUCK YOU BITCH',
+    success: '✅ Done!',
+    admin: '*Only admins can use this command !*',
+    botAdmin: '*Please admin the bot first !*',
+    owner: '*Sorry, this command is only for the owner !*',
+    group: '*This command can only be used in groups !*',
+    private: '*This command can only be used in Inbox !*',
+    bot: '*This command can only be used by bot number !*',
+    wait: '*♲ Please Wait ...*',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
+    IMG_BLOCK : "This Word is Ban from image downloader",
+    DISABLE_INBOX : "Inbox DISABLE By Bot Owner Please Only Use Groups",
+    ONLY_SEX_GROUP : "Adult Video Download Only Allowed On This Group \n\n https://chat.whatsapp.com/JYAg2lMpRTF2bgkeFCxsvf",
+    DISABLE_CMD : "🚫 Commands Are DISABLE by owner",
+    BAD_DETECT : '',
     BLOCK : '',
     UNBLOCK : '',
     KICK : '',
@@ -166,13 +169,13 @@ global.mess = {
 
 
 //other
-global.pemilik = ['923206629195'] //Change  it 
-global.premium = ['923206629195'] //Change it 
-global.pengguna = 'SIGMA BOT MAKER' // Your name 
+global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '👽'
-global.weem = '██▓▒­░⡷⠂𝚻𝚮𝚵 𝚻𝚵𝚪𝚳𝚰𝚴𝚫𝚻𝚯𝚪 𝚳𝐃⠐⢾░▒▓██'
+global.weem = 'QUEEN ELISA'
 
 global.limitawal = {
     premium: "Infinity", 
@@ -184,11 +187,11 @@ global.APIs = {
 	zenz: 'https://zenzapi.xyz', 
 }
 global.APIKeys = {
-	'https://zenzapi.xyz': '01ABEB1E11', //API PLEASE
+	'https://zenzapi.xyz': '01ABEB1E11', //Kalau habis beli sendiri
 }
 
-//global.alivelogo = `https://telegra.ph/file/82c510779928a9d9db389.jpg`
-global.imgalive = fs.readFileSync('./Media/image/TERMINATOR.jpg')
+//global.alivelogo = `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+global.imgalive = fs.readFileSync('./Media/image/Elisa.jpg')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
